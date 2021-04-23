@@ -16,7 +16,7 @@ Three trends are listed at the end of the WeatherPy jupyter notebook.
 NOTE: All graphs and a list of the cities' weather can be found in the weather_data directory. 
 
 ## VacationPy (jupyter notebook)
-The cities' weather data collected in the WeatherPy notebook was then narrowed down to cities with perfect weather conditions (70-80 F, less than 10 mph of wind, and no clouds).
+The cities' weather data collected in the WeatherPy notebook was then narrowed down to cities with perfect weather conditions (70-78 F, less than 10 mph of wind, and no clouds).
 
 Hotels were found in these cities with Google's PLaces API and added to a map along with a heat map based on how humid all the cities found in the WeatherPy were with the use of Google's Google Maps API. 
 
